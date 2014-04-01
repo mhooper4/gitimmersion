@@ -2,4 +2,4 @@
 # Author: Jim Weirich" 
 name = ARGV.first || "World"
 
-puts "Hello, #{names}!"
+puts "Hello, #{name}!"
